@@ -1,4 +1,4 @@
-import './Updates.css';
+import './updates.css';
 import {UpdatesData} from '../../assets/Data/data';
 
 const Updates = () => {
