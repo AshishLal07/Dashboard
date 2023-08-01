@@ -1,4 +1,4 @@
-import Cards from '../Cards/Cards';
+import Cards from '../cards/Cards';
 import BasicTable from '../table/Table';
 import './dashBoard.css';
 
