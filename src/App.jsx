@@ -1,6 +1,7 @@
 import './App.css';
 import RightSide from './components/Aside/RightSide';
-import Dashboard from './components/dashboard/dashboard';
+import Dashboard from './components/MainDash/Dashboard';
+
 import Sidebar from './components/sidebar/Sidebar';
 
 function App() {

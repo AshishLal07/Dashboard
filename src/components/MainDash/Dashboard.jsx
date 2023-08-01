@@ -1,4 +1,3 @@
-import RightSide from '../Aside/RightSide';
 import Cards from '../Cards/Cards';
 import BasicTable from '../table/Table';
 import './dashBoard.css';
